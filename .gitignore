@@ -1,0 +1,6 @@
+# Intellij related files
+.idea
+
+# Terraform related files
+.terraform
+
